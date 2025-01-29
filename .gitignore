@@ -1,0 +1,17 @@
+# Ignore .DS_Store files (created on macOS)
+.DS_Store
+
+# Ignore .env file with sensitive data
+.env
+
+# Ignore Composer dependencies directory
+/vendor/
+
+# Ignore logs and temporary files
+/logs/
+/tmp/
+
+# Ignore IDE-specific files (PhpStorm, VSCode, etc.)
+.idea/
+.vscode/
+*.swp
